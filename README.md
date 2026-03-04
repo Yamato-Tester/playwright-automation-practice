@@ -9,6 +9,6 @@ Dự án thực hành Automation Test tích hợp UI và API sử dụng Playwri
 - **Reporting**: Tự động chụp ảnh (Screenshot) và quay Video khi test lỗi.
 
 ## 🛠 Cài đặt
-1. Clone dự án: `git clone <link-cua-ban>`
+1. Clone dự án: `https://github.com/Yamato-Tester/playwright-automation-practice/edit/main/README.md`
 2. Cài đặt thư viện: `npm install`
-3. Chạy test: `npx playwright test`
+3. Chạy test: `npx playwright test tests/Tên file`
